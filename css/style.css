@@ -1,3 +1,37 @@
-h1 {
-  color: salmon;
+body {
+  color: rgb(86, 86, 86);
+  text-align: center;
+  justify-content: space-around;
+}
+
+
+
+img {
+  border: 1px solid black;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+  justify-content: space-around;
+}
+
+.text {
+  position: absolute;
+  top: 40%;
+  color: white;
+  left: 14%;
+}
+#New {
+  color: white;
+  left: 450%;
+  position: absolute;
+  bottom: 1px;
+}
+
+#Lon {
+  position: absolute;
+  left: 66vw;
+  bottom: 1px
 }
